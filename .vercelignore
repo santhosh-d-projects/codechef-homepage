@@ -1,0 +1,18 @@
+# AI agent tooling — not part of the website
+.agent/
+.agents/
+.claude/
+.claude-plugin/
+.gemini/
+.kiro/
+agents/
+hooks/
+plugins/
+skill-creator/
+skills/
+
+# Unused asset subfolders
+assets/images/guides/
+assets/images/longform/
+assets/images/security/
+assets/images/shortform/
